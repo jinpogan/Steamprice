@@ -1,7 +1,6 @@
 import os
 import time
 import sys
-from random import randint as rand
 try:
     try:
         mode = sys.argv[2]
